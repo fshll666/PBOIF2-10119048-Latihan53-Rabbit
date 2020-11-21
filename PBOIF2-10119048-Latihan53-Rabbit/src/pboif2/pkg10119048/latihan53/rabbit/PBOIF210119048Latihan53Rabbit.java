@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan53.rabbit;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Menampilkan program rabbit
  */
 public class PBOIF210119048Latihan53Rabbit {
 
